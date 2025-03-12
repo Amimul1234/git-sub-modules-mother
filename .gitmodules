@@ -1,0 +1,3 @@
+[submodule "git-sub-modules-child"]
+	path = git-sub-modules-child
+	url = https://github.com/Amimul1234/git-sub-modules-child.git
